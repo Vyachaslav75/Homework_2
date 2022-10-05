@@ -22,7 +22,7 @@ while (userNumber / 10 != 0)
 }
 if (tmp < 100)
 {
-    Console.WriteLine($"{tmp} -> нет третьей цифры");
+    Console.WriteLine($"{tmp} -> третьей цифры нет");
 }
 else
 {
